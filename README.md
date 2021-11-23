@@ -1,2 +1,3 @@
-# uz-en-dictionary
-Uzbek-English dictionary and translator Python library
+# Uzbek-English dictionary and translator Python library
+
+<comment>
