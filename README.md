@@ -21,3 +21,4 @@
       <li>Agar <code>o'</code> harfidan foydalansangiz — <code>`</code> belgini ishlating
     </ul>
 </p>
+<b><i>Dastur Matyoqubov Firdavs tomonidan yaratildi ✅</i></b>
