@@ -9,6 +9,6 @@
       <li>Avvalo Repo'ni yuklab oling
       <li>Keyin <code>app.py</code> ni Python muhitida ishga tushiring
       <li>Va manabunday ishlatish mumkin
-        <iframe src="https://github.com/user2020-py/uz-en-dictionary/blob/master/screenshots/01.jpg"></iframe>
+        <img src="screenshots/01.jpg">
     </ul>
 </p>
