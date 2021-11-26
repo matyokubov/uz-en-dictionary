@@ -9,6 +9,6 @@
       <li>Avvalo Repo'ni yuklab oling
       <li>Keyin <code>app.py</code> ni Python muhitida ishga tushiring
       <li>Va manabunday ishlatish mumkin
-        <img href=screenshots/01.jpg>
+        <img href="/screenshots/01.jpg">
     </ul>
 </p>
