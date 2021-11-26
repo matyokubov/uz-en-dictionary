@@ -9,6 +9,15 @@
       <li>Avvalo Repo'ni yuklab oling
       <li>Keyin <code>app.py</code> ni Python muhitida ishga tushiring
       <li>Va manabunday ishlatish mumkin
-        <img src="screenshots/01.jpg">
+    </ul>
+    <ul>
+      <li>English -> Uzbek<br><img src="screenshots/01.jpg">
+      <li>Uzbek -> English<br><img src="screenshots/02.jpg">
+      <li>So'z qidirish<br><img src="screenshots/03.jpg">
+    </ul>
+  <h2>Eslatma!</h2>
+    <ul>
+      <li>Dasturga faqat bir bo'lakli so'z kiriting
+      <li>Agar <code>o'</code> harfidan foydalansangiz — <code>`</code> belgini ishlating
     </ul>
 </p>
