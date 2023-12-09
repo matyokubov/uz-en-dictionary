@@ -5,7 +5,7 @@
   Dastur python dasturlash tili muhitida ishlaydi va qo'shimcha kutubxona va paketlar talab qilmaydi.
   Hamda, ushbu repodagi <code>uz-en-dictionary</code> jildini mustaqil paket sifatida ham qo'llay olasiz!
   </b><br>
-  <h2>Ishlatish uchun qo'llanma: </h2>
+  <h2>Foydalanish: </h2>
     <ul>
       <li>Avvalo Repo'ni yuklab oling
       <li>Keyin <code>app.py</code> ni Python muhitida ishga tushiring
