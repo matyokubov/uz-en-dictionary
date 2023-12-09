@@ -1,4 +1,4 @@
-# Uzbek-English dictionary and translator. Python library
+# Uzbek-English dictionary
 <p>
   <b>
   Bu dastur orqali ikki tildagi so'zlarni qulay tarjima qiling.
@@ -17,7 +17,7 @@
     </ul>
   <h2>Eslatma!</h2>
     <ul>
-      <li>Dasturga faqat bir bo'lakli so'z kiriting
-      <li>Agar <code>o'</code> harfidan foydalansangiz — <code>`</code> belgini ishlating
+      <li>Dasturga faqat bir bo'lakli so'z kiriting (frazalar kiritilmasin)
+      <li>Agar <code>o'</code> harfidan foydalansangiz — <code>`</code> belgisini ishlating
     </ul>
 </p>
