@@ -1,10 +1,10 @@
 # Uzbek-English dictionary and translator. Python library
 <p>
   <b>
-  UZ: Bu dastur orqali ikki tildagi so'zlarni qulay tarjima qiling.
-  Dastur Python dasturlash tili muhitida ishlaydi va qo'shimcha kutubxona va paketlar talab qilmaydi.
+  Bu dastur orqali ikki tildagi so'zlarni qulay tarjima qiling.
+  Dastur python dasturlash tili muhitida ishlaydi va qo'shimcha kutubxona va paketlar talab qilmaydi.
   </b><br>
-  <h2>Ishlatish uchun qo'llanma ——</h2>
+  <h2>Ishlatish uchun qo'llanma: </h2>
     <ul>
       <li>Avvalo Repo'ni yuklab oling
       <li>Keyin <code>app.py</code> ni Python muhitida ishga tushiring
@@ -21,4 +21,3 @@
       <li>Agar <code>o'</code> harfidan foydalansangiz — <code>`</code> belgini ishlating
     </ul>
 </p>
-<b><i>Dastur Matyoqubov Firdavs tomonidan yaratildi ✅</i></b>
