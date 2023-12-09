@@ -3,7 +3,7 @@
   <b>
   Bu dastur orqali ikki tildagi so'zlarni qulay tarjima qiling.
   Dastur python dasturlash tili muhitida ishlaydi va qo'shimcha kutubxona va paketlar talab qilmaydi.
-  Ushbu repodagi <code>uz-en-dictionary</code> jildini mustaqil paket sifatida ham qo'llay olasiz!
+  Hamda, ushbu repodagi <code>uz-en-dictionary</code> jildini mustaqil paket sifatida ham qo'llay olasiz!
   </b><br>
   <h2>Ishlatish uchun qo'llanma: </h2>
     <ul>
