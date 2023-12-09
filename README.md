@@ -9,7 +9,7 @@
     <ul>
       <li>Avvalo Repo'ni yuklab oling
       <li>Keyin <code>app.py</code> ni Python muhitida ishga tushiring
-      <li>Va manabunday ishlatish mumkin
+      <li>Va quyidagidek:
     </ul>
     <ul>
       <li>English -> Uzbek<br><img src="screenshots/01.jpg">
